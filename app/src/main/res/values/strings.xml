@@ -1,0 +1,707 @@
+<resources>
+
+    <string name="app_name">Reciclar com Criatividade1</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="bt_materiais">Materiais</string>
+    <string name="text_tela_materiais">Escolha seu material</string>
+    <string name="bt_plastico">Plástico</string>
+    <string name="bt_vidro">Vidro</string>
+    <string name="bt_madeira">Madeira</string>
+    <string name="bt_isopor">Isopor</string>
+    <string name="bt_metal">Metal</string>
+    <string name="bt_papelao">Papelão</string>
+    <string name="text_ideia">Escolha sua Idéia</string>
+    <string name="materiais">Materiais:</string>
+    <string name="passo_a_passo">Passo a Passo:</string>
+    <string name="text_app">Reciclar com Criatividade</string>
+
+
+    <string name="text_garrafa_pet">Plantar na garrafa de 5L</string>
+    <string name="text_plantar_na_garrafa_de_5L">Este método de plantio se chama hidroponia, onde
+\ você pode plantar salsa, cebolinha,  salsão, alface e
+\ rúcula.Sempre tenha preferência para vegetais folhosos que se adaptam melhor.</string>
+    <string name="role">Rolar a tela para ver o conteúdo</string>
+    <string name="materiais_plantar_na_garrafa_de_5L">Uma garrafa de água 5L, 3 copos descartáveis, tesoura, alicate de corte, caneta, sementes ou mudas de sua
+\ preferência, terra, água e estilete.</string>
+    <string name="text_1passo_plantar_na_garrafa_de_5L">Pegue a garrafa e tire o rótulo com o estilete.</string>
+    <string name="text_2passo_plantar_na_garrafa_de_5L">Retire a alça com auxílio do alicate de corte.</string>
+    <string name="text_3passo_plantar_na_garrafa_de_5L">Pegue um copo e use como molde, faça 3 círculos
+\ na garrafa, com espaços iguais entre eles.</string>
+    <string name="text_4passo_plantar_na_garrafa_de_5L">Corte com um ferro quente ou com tesoura o círculo feito
+\ a caneta na garrafa, faça o corte um pouco menor que
+\ o círculo para as bordas o copo ficarem apoiadas na garrafa.</string>
+    <string name="text_5passo_plantar_na_garrafa_de_5L">Faça 4 cortes espaçados na borda do fundo dos copos .</string>
+    <string name="text_6passo_plantar_na_garrafa_de_5L">Coloque os copos nos buracos da garrafa e coloque a terra.</string>
+    <string name="text_7passo_plantar_na_garrafa_de_5L">Plante sua semente ou sua muda no copo.</string>
+    <string name="text_8passo_plantar_na_garrafa_de_5L">Regue com água os copos plantados.</string>
+    <string name="text_9passo_plantar_na_garrafa_de_5L">Retire um dos copos e coloque água dentro da garrafa
+\ pelo buraco até pegar 1 centimetro do fundo do copo e
+\ faça alguns furos na garrafa para circular o ar, isso
+\ fará com que o ambiente dentro da garrafa não fique muito quente para as raízes.</string>
+    <string name="text_10passo_plantar_na_garrafa_de_5L">Regue as ortaliças até que as raízes alcancem,a água
+\  dentro da garrafa depois é só repor a água, em algumas semanas você terá suas hortaliças pronta para consumo.</string>
+
+    <string name="text_mesa_cano_PVC">Mesa de cano PVC</string>
+    <string name="text_mesa_de_cano">Vamos fazer uma mesinha de centro com cano PVC?
+\ É muito fácil e você vai precisar de poucos materiais.</string>
+    <string name="materiais_mesa_de_cano">Cano de PVC de 25mm, serrinha para cortar cano, cola de cano, lixa grão 150, 8 joelhos de cano,
+\ tinta spray na cor da sua preferência, 1 madeira de 80x60cm para o tampo, 4 braçadeiras da espessura do cano e 8 parafusos.</string>
+    <string name="text_1passo_mesa_de_cano">Lixe as pontas dos canos e os joelhos por dentro.</string>
+    <string name="text_2passo_mesa_de_cano">Lixe as pontas dos canos cortados por fora,
+\ isso dará mais aderência para cola.</string>
+    <string name="text_3passo_mesa_de_cano">Lixe os joelhos por dentro,
+\ isso dará mais aderência para cola.</string>
+    <string name="text_4passo_mesa_de_cano">Pegue 2 barras de 45cm e 2 de 2 barras de 65cm e cole os joelhos nos canos.</string>
+    <string name="text_5passo_mesa_de_cano">Cole as barras de 30cm nas pontas das barras de 45cm.</string>
+    <string name="text_6passo_mesa_de_cano">Cole as barras de 65cm com as junções de 45+30cm e feche os pés da mesa.</string>
+    <string name="text_7passo_mesa_de_cano">Os pés da mesa devem ficar nesta posição.</string>
+    <string name="text_8passo_mesa_de_cano">Pinte os pés da mesa com a tinta spray.</string>
+    <string name="text_9passo_mesa_de_cano">Agora vamos colocar o tampo da mesa, meça 7,5cm de
+\ cada lado do tampo para centralizar os pés ao tampo.</string>
+    <string name="text_10passo_mesa_de_cano">Fixe com os parafusos as braçadeiras sobre os joelhos.</string>
+    <string name="text_11passo_mesa_de_cano">Agora está pronta sua nova mesa de centro e com um designer inovador.</string>
+
+
+    <string name="text_organizador">Organizador</string>
+    <string name="text_organizador2">Vamos fazer um organizador para o banheiro ou quarto
+\ com uma garrafa de produto de limpeza de 2 litros, super fácil e com materiais baratos.</string>
+    <string name="materiais_organizador">Uma garrafa de produto de limpeza de 2 litros, tesoura,
+\ cola quente, tecido, uma esteira de bambu ou palitos de
+\ churrasquinho, cola de silicone liquída, uma tira de couro(pode ser de cinto) e um pedaço de papelão.</string>
+    <string name="text_1passo_organizador">Pegue a garrafa de produto de limpeza retire o rótulo
+\ e corte com a tesoura a altura desejada.</string>
+    <string name="text_2passo_organizador">Pegue a esteira ou os palitos de churrasquinho corte
+\ 2cm maior do que a altura da garrafa e cole em toda a
+\  volta, usando a cola quente e a cola de silicone.</string>
+    <string name="text_3passo_organizador">Pegue um tecido da sua preferência com o comprimento
+\ para fechar a volta da garrafa sobrando 2cm, a altura do
+\ tecido deve ser 10cm maior que a altura total da garrafa, em uma das pontas do tecido faça uma barra de 2cm
+\ e coloque a cola de silicone.</string>
+    <string name="text_4passo_organizador">Pegue o tecido e cole com a cola de silicone a parte que
+\ foi feita a barra a 4cm da boca da garrafa e o resto do
+\ tecido vai colocando para dentro da garrafa para fazer
+\ o forro, faça até cobrir toda circuferência da garrafa,
+\ no final faça uma barra lateral na parte de fora para
+\fazer o acabamento.</string>
+    <string name="text_5passo_organizador">Agora faça um círculo com o papelão de um tamanho
+\ menor que a boca do organizador, forre o círculo de papelão  com o tecido e coloque dentro do organizardor.</string>
+    <string name="text_6passo_organizador">Deve ficar dessa forma o forro do organizador.</string>
+    <string name="text_7passo_organizador">Agora vamos pegar a tira de couro arredondar as
+\ pontas com a tesoura e colar com a cola quente na
+\ parte do bambu do organizador.</string>
+    <string name="text_8passo_organizador">Finalizado o organizador é só escolher o seu local, uma
+\ ótima idéia para seu ambiente ficar sempre organizado.</string>
+
+    <string name="text_telha_garrafa">Telha de Garrafa</string>
+    <string name="text_telha_garrafa2">Vamos construir um segmento de telha de garrafa pet,
+\ que pode ser adaptada no telhado de uma casa ou para
+\ um viveiro de plantas.Lembrando que essas medidas
+\ estão adaptadas para um telhado com telhas de 5mm
+\ de espeçura 1,53x1,10cm , as medidas devem
+\ atender as suas necessidades.</string>
+    <string name="text_materiais_telha_garrafa">Vamos precisar de 72 garrafas pet transparentes,
+\ grampeador de papel, grampeador de madeira, pregos
+\ 12x12, parafusos de madeira tipo philips, furadeira,
+\ chave philips ou parafusadeira, 2 ripas de madeira de
+\ pinos com 1,02m e 3 ripas com 1m, um pedaço de tábua
+\ de pinos, caneta, trena, tesoura, estilete, cola de madeira, martelo e uma serrinha ou serrote.</string>
+    <string name="text_1passo_telha_garrafa">Serre as ripas de acordo com sua necessidade,
+\ nesse projeto vamos usar 2 ripas de 1,02cm e 3 ripas de 1m.</string>
+    <string name="text_2passo_telha_garrafa">Pegue a tábua de madeira faça 8 círculos de 100mm de
+\ diâmetro, faça um ponto no meio do círculo, ele será
+\ uma marcação de referêcia mais tarde, serre os círculos
+\ e depois corte todos ao meio, nas pontas faça um furo a 45° com a furadeira para pregar na ripa.</string>
+    <string name="text_3passo_telha_garrafa">Pegue 6 metades do círculo e coloque cola de madeira,
+\ meça 1,25cm da ripa e pregue um semi círculo, agora
+\ meça 17,5cm do meio do semi círculo que foi pregado e
+\ faça um risco, no risco você vai posicionar o meio
+\ do próximo semi círculo, a medida de 17,5 entre cada
+\ meio círculo você terá como referência o ponto feito no meio do semi círculo para pregar os próximos, pregue os
+\ semi círculos e pregue na ripa.</string>
+    <string name="text_4passo_telha_garrafa">As ripas com os semi círculos devem ficar assim.</string>
+    <string name="text_5passo_telha_garrafa">Agora pegue as ripas de 1,02m e em cada ponta
+\ coloque um pedacinho de ripa de 10cm, depois você vai
+\ medir 16,5cm e parafuse a ripa com os semi círculos,
+faça isso na outra ponta também, e entre elas coloque a
+outra ripa com os semi círculos, fechando o quadrado.</string>
+    <string name="text_6passo_telha_garrafa">O quadro deve ficar assim.</string>
+    <string name="text_7passo_telha_garrafa">Agora vamos cortar as garrafas, corte a garrafa
+\ como na imagem abaixo</string>
+    <string name="text_8passo_telha_garrafa">Agora corte a garrafa ao meio bem na marca na
+\ vertical, que é a marca da forma que é feita a garrafa, segue imagem abaixo.</string>
+    <string name="text_9passo_telha_garrafa">Agora vamos unir as garrafas na vertical, una
+\ a ponta do fundo da garrafa em cima da parte da boca da garrafa com auxílio
+\ do grampeador de papel, una 6 partes dessa forma até ter 12 calhas.Se você quiser pode colocar
+\ silicone para vedar melhor.</string>
+    <string name="text_10passo_telha_garrafa">Pegue as calhas e fixe com o grampeador de madeira
+\ nos semi círculos, certifique-se que todas as calhas estejam no mesmo sentido, onde a água escoada
+\ não entre por alguma fresta, fixe todas até fechar o quadro.</string>
+    <string name="text_11passo_telha_garrafa">Agora coloque as partes que ficam em cima todas no mesmo sentido.</string>
+    <string name="text_12passo_telha_garrafa">Telha pronta, agora é só montar seu telhado e usá-las.</string>
+
+    <string name="text_vaso1">Vaso de Balde</string>
+    <string name="text_vaso2">Vamos produzir um vaso para colocar uma planta, super
+\ fácil, com poucos materiais e combina em vários ambientes.</string>
+    <string name="materiais_vaso">Um balde, tesoura, estilete, cola quente, prendedor de
+\ roupa de madeira, cordão grosso de sisal,
+\ tinta verniz transparente, barbante de algodão espessura média, cordão fino de sisal e um pincel.</string>
+    <string name="text_1passo_vaso">Retire a borda do balde com auxílio do estilete, retire
+a alça, e deixe a borda reta.   </string>
+    <string name="text_2passo_balde">O balde deve ficar assim.</string>
+    <string name="text_3passo_balde">Retire o ferrinho do prendedor, cole com a cola quente as
+\ metades de prendedor por toda a volta do balde na parte de baixo e a boca do balde.</string>
+    <string name="text_4passo_balde">Na parte do meio do balde passe o cordão de sisal grosso até cobrir tudo, passe com o pincel o verniz.</string>
+    <string name="text_5passo_balde">Pegue o cordão de algodão e faça uma volta entre os
+\ prendedores e o cordão de sisal colando com a cola quente, faça na parte de baixo também.</string>
+    <string name="text_6passo_balde">Agora corte 6 pedaços iguais do cordão de sisal grosso
+\ e una com cola quente, meça 4cm do cordão e enrrole a
+\ corda de sisal fina, faça mais um igual, elas serão
+\ a alça enfeite do vaso, na parte que ficou sem o sisal
+\ enrrolado separe os fios para ficar com aparencia de corda desfiada.</string>
+    <string name="text_7passo_balde">Está pronto o vaso, escolha sua planta e deixe seu ambiente mais harmonioso.</string>
+
+    <string name="text_pote">Pote com Garrafa</string>
+    <string name="text_pote1">Vamos fazer um pote trasparente com uma garrafa pet,
+\ você pode usar para colocar massa espaguete, grãos e biscoitos.</string>
+    <string name="materiais_pote">Uma garrafa de sprite lemon fresh de 1,5L, uma tampa do
+\  pote de achocolatado Toddy de 800g, adesivo vinílico
+\ com estampa de madeira, argola de madeira, estilete,
+\ tesoura, ferro de passar roupa, uma placa de EVA,
+\ secador de cabelo, cola universal e uma bolinha de
+\ madeira.A tampa e a garrafa devem ser dessas marcas
+\ citadas, pois elas tem o encaixe perfeito.</string>
+    <string name="text_1passo_pote">Com o estilete faça um corte
+\ na altura desejada e corte o restante com a tesoura.</string>
+    <string name="text_2passo_pote">Deixe o corte da garrafa reto, para fazer o acabamento
+\ da boca da garrafa passe a boca da garrafa no ferro
+\ em uma temperatura não muito quente para não
+\ derreter a garrafa, gire a garrafa para a borda ficar igual, assim terá um bom acabamento.</string>
+    <string name="text_3passo_pote">Para fazer o acabamento da parte de baixo da garrafa,
+\ corte um pedaço de EVA da altura que você deseja
+\ com o comprimento da circunferência da garrafa, cole o
+\ adesivo vinílico no EVA, deixe 1cm de vinílico a mais no
+\ comprimento para fazer o acabamento, cole com cola universal na garrafa.</string>
+    <string name="text_4passo_pote">Corte uma tira do adesivo vinílico para colocar na lateral
+\ da tampa, deixe 0,2mm a mais na largura para fazer o
+\ acabamento da tampa, use a tampa como molde e faça
+\ um círculo, esse circulo você deve cortar 0,2mm menor do que o risco, para caber certinho na tampa.</string>
+    <string name="text_5passo_pote">Com o secador de cabelo você vai aquecer o adesivo
+\ vinílico para dobrar na tampa e ter um melhor acabamento.</string>
+    <string name="text_6passo_pote">Cole o círculo de adesivo vinílico na tampa.</string>
+    <string name="text_7passo_pote">No meio da tampa cole a argola e a bolinha de madeira
+\ com a cola universal, que será o puxador do pote.</string>
+    <string name="text_8passo_pote">Pote pronto para você utilizar.</string>
+
+    <string name="text_luminaria">Luminária</string>
+    <string name="text_luminaria1">Iremos reaproveitar um pote de vidro para confeccionar uma luminária.</string>
+    <string name="text_materiais_luminaria1">Um pote de vidro, cordão de sisal fino e grosso,
+\ cola quente, 2 argolas de bijuteria, terminal de pulseira, fio de led a pilha e fita dupla face.</string>
+    <string name="text_1passo_luminaria">Cole com a cola quente o cordão de sisal fino na parte de baixo, cubra 5cm.</string>
+    <string name="text_2passo_luminaria">Cole o cordão de sisal fino na tampa do pote.</string>
+    <string name="text_3passo_luminaria">Cole o cordão de sisal fino no lado da tampa.</string>
+    <string name="text_4passo_luminaria">Cole o cordão de sisal fino bem rente a tampa,
+\ depois de dar 2 voltas com o cordão de sisal coloque
+\ um dos terminais passando o cordão pela argola,
+\ continue colando o cordão e coloque o outro terminal,
+\ os dois terminais devem ficar no meio.</string>
+    <string name="text_5passo_luminaria">Cole um pedaço do cordão de sial grosso nos terminais.</string>
+    <string name="text_6passo_luminaria">Coloque dois pedaços da fita dupla face na
+\ tampa e cole a caixinha da led, coloque as leds dentro
+\ do pote, ligue as leds e tampe o pote.</string>
+    <string name="text_7passo_luminaria">Já está pronta sua luminária.</string>
+
+    <string name="text_vaso_quadro">Decoração para Cozinha</string>
+    <string name="text_vaso_quadro1">Agora vamos fazer uma decoração para cozinha, fácil de
+\ fazer e gastando pouco.</string>
+    <string name="text_materiais_vaso_quadro">Um tábua de carne ou um pedaço de madeira, pote de
+\ vidro, fita crepe, betume para madeira, espoja, stencil
+\ com frase, tinta preta fosca PVA, pincel, verniz acrílico
+\ transparente, cordão de sisal fino, um pedaço de couro
+\ sintético, cola universal, 2 parafusos de madeira tipo
+\ philips, chave philips, 2 tachinhas, alicate de corte, um pedaço de 15cm de madeira.</string>
+    <string name="text_1passo_vaso_quadro">Com a fita crepe faça uma delimitação, na
+\ parte de cima da tábua passe o betume com o auxílio de
+\  uma esponja, passe na lateral da tábua o betume e retire a fita.</string>
+    <string name="text_2passo_vaso_quadro">Agora coloque o stencil a baixo da pintura,
+\ fixe na tábua com fita crepe, e com o pincel passe a
+\ tinta preta fosca, retire o stencil.Se você quiser pode escrever a mão livre.</string>
+    <string name="text_3passo_vaso_quadro">Passe o cordão de sisal na borda do pote e faça um laço.</string>
+    <string name="text_4passo_vaso_quadro">Pegue a tira de couro passe cola universal e cole no
+\ vidro.Parafuse o couro na tábua.Pegue as tachinhas
+\ e corte o preguinho para ficar só as cabeças das
+\ tachinhas, e cole em cima dos parafusos para fazer o acabamento.</string>
+    <string name="text_5passo_vaso_quadro">Faça um laço na parte de cima da tábua com o cordão de sisal.</string>
+    <string name="text_6passo_vaso_quadro">Se você quiser deixar em cima do balcão da cozinha,
+\ você deve colar um pedaço de madeira de 15cm atrás,
+\ se você quiser pendurar na parede também fica legal.</string>
+    <string name="text_7passo_vaso_quadro">Agora é só escolher a planta e colocar no vidro.</string>
+    <string name="text_8passo_vaso_quadro">Está pronta sua decoração, agora é só escolher o lugar
+\ para colocar sua planta.</string>
+
+    <string name="text_kit_potes_vidro">Kit Potes de Vidro</string>
+    <string name="text_kit_potes_vidro1">Vamos reaproveitar aqueles potes de vidro de conserva
+\   para colocar farofa, farinhas, açucar e até achocolatado.</string>
+    <string name="materiais_kit_potes_vidro">Cinco potes de vidro, etiquetas, caneta Posca branca, 5
+\ gargalos de garrafa de refrigerante com tampa, serrinha,
+\  tesoura, broca fresa n° 25, furadeira, tinta spray preto fosco e cola universal.</string>
+    <string name="text_1passo_kit_potes_vidro">Nas etiquetas coloque o nome dos condimentos com a
+\ caneta Posca branca</string>
+    <string name="text_2passo_kit_potes_vidro">Centralize as etiquetas no pote e cole.</string>
+    <string name="text_3passo_kit_potes_vidro">Corte os gargalos das garrafas com a serrinha e
+\ retire o lacre da tampa com a tesoura.</string>
+    <string name="text_4passo_kit_potes_vidro">Faça um furo no centro das tampas com a furadeira e a
+\ broca fresa.</string>
+    <string name="text_5passo_kit_potes_vidro">Passe a cola por dentro da tampa ao redor do furo,
+\  passe o gargalo da garrafa por dentro do furo da tampa
+\ de dentro para furar e colar na tampa.</string>
+    <string name="text_6passo_kit_potes_vidro">Tampe seus potes.</string>
+    <string name="text_7passo_kit_potes_vidro">Kit pronto para utilizar, só escolher os condimentos.</string>
+
+    <string name="text_vasinhos_esmalte">Vasinhos Decorativos</string>
+    <string name="text_vasinhos_esmalte_decoracao">Sabe aqueles vidrinhos de esmalte? Você joga fora?
+\ Não jogue mais! Vamos fazer uma decoração com eles.</string>
+    <string name="materiais_vasinhos_de_esmalte">Três vidrinhos de esmalte, tecido tela de junta,
+\ cordão de sisal fino, fita adesiva, cola quente, tesoura e flores artificiais.</string>
+    <string name="text_1passo_vasinhos_de_esmalte">Corte o cordão de sisal da altura desejada, cole
+\ com a fita adesiva o cordão nas laterais dos vidrinhos,
+\ passe o cordão em volta da boca do vidrinho e cole com cola quente, faça nos outros vidrinhos.</string>
+    <string name="text_2passo_vasinhos_de_esmalte">Os vidrinhos devem ficar assim.</string>
+    <string name="text_3passo_vasinhos_de_esmalte">Recorte um pedaço do tecido de junta e cole com
+\ cola quente ao redor do vidrinho.</string>
+    <string name="text_4passo_vasinhos_de_esmalte">Coloque as flores no vasinho.</string>
+    <string name="text_5passo_vasinhos_de_esmalte">Pronta sua decoração, agora é só escolher o lugar.</string>
+
+    <string name="text_luminaria_rustica">Luminária Rústica</string>
+    <string name="text_luminaria_rustica1">Vamos iluminar a entrada da casa com uma luminária
+\  rústica, usando vidros de conserva e restos de madeiras.</string>
+    <string name="materiais_luminaria_rustica">Um pote de vidro de conserva, um pedaço de tábua de
+\  50x20cm, um pedaço de madeira de 20x20cm,
+\  furadeira, parafusos, tinta spray preta, verniz marrom,
+\ corrente, bocal soquete para lâmpada, pincel, serrote ou
+\ serra elétrica, lixa de madeira, 40cm de fio elétrico e uma lâmpada.</string>
+    <string name="text_1passo_luminaria_rustica">Lixe as madeiras e os cantos, meça 15cm na madeira
+\  de 50cm, faça 2 furos para fixar a madeira de 20x20cm e parafuse a medeira, depois pinte com o verniz marrom.</string>
+    <string name="text_2passo_luminaria_rustica">Pinte com o spray a tampa do vidro, o soquete e a
+\ corrente.</string>
+    <string name="text_3passo_luminaria_rustica">Parafuse a corrente na madeira.</string>
+    <string name="text_4passo_luminaria_rustica">Parafuse o fio no soquete da lâmpada.</string>
+    <string name="text_5passo_luminaria_rustica">Faça um furo com a furadeira na tampa do pote para
+\ passar o fio e outro para colocar o parafuso.</string>
+    <string name="text_6passo_luminaria_rustica">Faça um furo com a furadeira na tábua pequena para
+\ passar o fio e outro para colocar o parafuso.Parafuse a tampa com o soquete na tábua.</string>
+    <string name="text_7passo_luminaria_rustica">Coloque a lâmpada no soquete e o vidro.</string>
+    <string name="text_8passo_luminaria_rustica">Agora é só escolher o lugar e instalar sua luminára.</string>
+
+    <string name="text_decoracao_garrafa_vidro">Decoração com Vidro</string>
+    <string name="text_decoracao_vidro_garrafa">Uma decoração com vidros de leite de cocô e combina
+\ com vários ambientes.</string>
+    <string name="materiais_decoracao_coco">Três garrafinhas de leite de cocô, cordão de sisal fino,
+\  cola quente, cordão de sisal grosso, um pedaço de papelão e tesoura.</string>
+    <string name="text_1passo_decoracao_coco">Cole com cola quente o cordão de sisal fino ao redor da
+\ boca da garrafinha.Faça nas garrafinhas restantes.</string>
+    <string name="text_2passo_decoracao_coco">Cole as garrafinhas no papelão, corte o que sobrou do
+\ papelão rente as garrafinhas, cole o cordão de sisal grosso em volta das garrafinhas e cole um
+\ pedaço na lateral para fazer a alça.</string>
+    <string name="text_3passo_decoracao_coco">Pronta sua decoração, agora é só escolher o lugar.</string>
+
+    <string name="text_quadro_prateleira">Quadro Prateleira</string>
+    <string name="text_quadro_prateleira1">Vamos construir um quadro que também é uma
+\ parteleira com restos de madeira.</string>
+    <string name="materiais_quadro_prateleira">Duas ripas de 40cm, 2 ripas de 26cm, cola de madeira,
+\  furadeira, parafusos de madeira, tinta preta fosca,
+\  pincel, um pedaço de madeira de 26x8cm, chave philips, régua e lápis de grafite.</string>
+    <string name="text_1passo_quadro_prateleira">Pegue as ripas e cole as pontas com a cola de madeira
+\ formando um retângulo.</string>
+    <string name="text_2passo_quadro_prateleira">Faça um furo com a furadeira e coloque parafusos.</string>
+    <string name="text_3passo_quadro_prateleira">Pinte todos os lados ripas com a tinta preta.</string>
+    <string name="text_4passo_quadro_prateleira">Com a régua meça 7cm e marque com o lápis.</string>
+    <string name="text_5passo_quadro_prateleira">Passe a cola de madeira acima dos 7cm marcados.</string>
+    <string name="text_6passo_quadro_prateleira">Posicione a madeira acima da marcação de 7cm.</string>
+    <string name="text_7passo_quadro_prateleira">Faça um furo de cada lado com a furadeira.</string>
+    <string name="text_8passo_quadro_prateleira">Coloque um parafuso de cada lado e pinte a cabeça
+\ do parafuso com tinta preta fosca.</string>
+    <string name="text_9passo_quadro_prateleira">Pronta sua decoração, agora é só pendurar na parede.</string>
+
+    <string name="text_casinha_butijao_gas">Casinha para Butijão de Gás</string>
+    <string name="text_casinha_butijao1">Vamos fazer uma casinha para o butijão de gás, para
+\ não ficar aparecendo e o ambiente ficará mais agradável.</string>
+    <string name="materiais_casinha_butijao">16 ripas de madeira de 43x7cm, 14 ripas de madeira de
+\ 45x7cm, 4 ripas de 75x4cm, régua, lápis,
+\ cola de madeira, furadeira, parafusos, pincel e verniz para madeira.</string>
+    <string name="text_1passo_casinha_butijao">Pegue 2 ripas de 75x4cm, cole 8 ripas de 43x7cm,
+\ deixando 2,5 entre cada ripa, fure com a furadeira e
+\ coloque um parafuso em cada ponta da ripa de 43x7cm.Faça mais uma parte igual a essa.</string>
+    <string name="text_2passo_casinha_butijao">Pegue as ripas de 45x7cm cole nas pontas, fure
+\ com a furadeira e coloque um parafuso em cada
+\ ponta.</string>
+    <string name="text_3passo_casinha_butijao">Pegue uma ripa de 45x7, cole, fure e parafuse na parte
+\  de cima, assim fica mais firme para colocar as madeiras do lado.</string>
+    <string name="text_4passo_casinha_butijao">Usando as ripas dos lados como guias, fure as ripas e
+\ coloque um parafuso em cada ponta.</string>
+    <string name="text_5passo_casinha_butijao">Coloque as ripas restante na parte de cima,
+ fure e coloque os parafusos</string>
+    <string name="text_6passo_casinha_butijao">Pinte a casinha com o verniz.</string>
+    <string name="text_7passo_casinha_butijao">Prontinho, só colocar no lugar para esconder o botijão.</string>
+
+    <string name="text_criado_mudo">Criado Mudo</string>
+    <string name="text_criado_mudo2">Hoje vamos fazer um criado mudo, tem um estilo
+\  bem moderno, e o melhor você vai gastar pouco para produzir.</string>
+    <string name="materiais_criado_mudo">Duas tábuas de 30x14cm, 3 tábuas de 30x40cm,
+\ esquadro, furadeira, parafusos, 4 ripas de 50x4cm,
+\  4 ripas de 24x4cm, régua, lápis, 4 ripas de 40x2cm, 8
+\ cantoneiras pequenas, pincel, chave philips e tinta preto fosca.</string>
+    <string name="text_1passo_criado_mudo">Pegue as 2 tábuas de 30x14cm, coloque uma tábua
+\ de 30x40cm em cima, use o esquadro para ver se está
+\ alinhado as 2 tábuas.Faça o mesmo do outro lado da madeira.</string>
+    <string name="text_2passo_criado_mudo">Faça um furo em cada ponta e um no meio, coloque os
+\ parafusos.Faça o mesmo do outro lado da madeira.</string>
+    <string name="text_3passo_criado_mudo">Vire e posicione a outra tábua de 30x40cm, fure e
+\ coloque os parafusos.</string>
+    <string name="text_4passo_criado_mudo">As madeiras ficarão assim, parecendo um caixinha.</string>
+    <string name="text_5passo_criado_mudo">Pegue uma ripa de 40x2cm e posicione uma ripa de
+\ 24x4cm na frente, fure e coloque um parafuso.
+\ Faça nos 4 cantos e faça outra peça igual.</string>
+    <string name="text_6passo_criado_mudo">Marque 15cm com a régua no lado esquerdo do
+\ retângulo do 2 lados e no lado direito marque 14cm do 2 lados.Marque a outra peça.</string>
+    <string name="text_7passo_criado_mudo">Agora pegue as outras ripas de 40x2cm, posicione na
+\ marcação de 15cm, coloque uma cantoneira, marque
+\ os buraquinhos, fure com a furadeira nas marcações e
+\ coloque parafusos.Repita nas outras marcações e faça o mesmo processo no outro retângulo de madeira.</string>
+    <string name="text_8passo_criado_mudo">Pinte a base com a tinta preta.</string>
+    <string name="text_9passo_criado_mudo">Coloque por dentro da parte da base de 15cm a caixa de
+\ madeira, com a régua você irá medir para centralizar
+\ na caixa, fure com a furadeira e coloque 2 parafusos em cada ripa, fixando na caixa.</string>
+    <string name="text_10passo_criado_mudo">Pegue a outra madeira de 30x40cm, verifique se a cixa e
+\ a madeira estão na mesma altura e fixe na parte de baixo com parafusos.</string>
+    <string name="text_11passo_criado_mudo">Criado mudo pronto, agora é só utilizar.</string>
+
+    <string name="text_luminaria_mesa">Luminária de Mesa</string>
+    <string name="text_luminaria_de_mesa">Que tal aprender a fazer uma luminária de mesa estilo
+\ industrial, usando materiais simples e baratos? Essa
+\  é uma ótima ideia para dar um toque de personalidade
+\ e criatividade ao seu ambiente.</string>
+    <string name="materiais_luminaria_de_mesa">Dois pedaços de madeira de 14x14cm, 2 pedaços de
+\ 14x11cm , 1 pedaço de 11x11, régua, lápis, furadeira,
+\  cola de madeira, tinta preto fosco, rolinho de pintar,
+\  uma ripa de 7x14cm, 2 ripas de 7x10cm, 1 soquete de
+\ lâmpada, 1 lâmpada, chave philips, fio elétrico e um plugue macho.</string>
+    <string name="text_1passo_luminaria_de_mesa">Pegue o pedaço de 11x11cm e com a régua faça um
+\ risco para formar um X, assim você saberá onde fica o
+\ meio, posicione a furadeira e faça um furo para colocar o soquete.</string>
+    <string name="text_2passo_luminaria_de_mesa">Pegue um pedaço de 14x14cm e cole em cima os
+\ pedaços de 14x11cm.</string>
+    <string name="text_3passo_luminaria_de_mesa">Pegue o pedaço furado e cole na parte de trás.</string>
+    <string name="text_4passo_luminaria_de_mesa">Cole o outro pedaço de 14x14 formando um quadrado.</string>
+    <string name="text_5passo_luminaria_de_mesa">Pinte todo quadrado de preto.</string>
+    <string name="text_6passo_luminaria_de_mesa">Pegue a ripa de 7x14cm e cole em um dos lados de
+\ 14x14cm.</string>
+    <string name="text_7passo_luminaria_de_mesa">Pegue as ripas de 7x10cm e cole nos lados.</string>
+    <string name="text_8passo_luminaria_de_mesa">Pegue o fio e faça a instalação no soquete e no pluge.</string>
+    <string name="text_9passo_luminaria_de_mesa">Encaixe o soquete no furo de trás e coloque a lâmpada.</string>
+    <string name="text_10passo_luminaria_de_mesa"> Agora você pode aproveitar a sua luminária para
+\ iluminar e decorar o seu ambiente, ou até mesmo presentear alguém especial.</string>
+
+    <string name="text_prateleira_de_madeira">Prateleira de Madeira</string>
+    <string name="text_prateleira_de_madeira1">Uma prateleira de madeira é um móvel útil e decorativo
+\ que pode ser usado para armazenar livros, objetos, plantas e itens de cozinha.</string>
+    <string name="materiais_prateleira_de_madeira">Doze ripas de 4x70cm, 6 ripas de 28x4cm, 4 ripas
+\ de 93x4cm, cola de madeira, furadeira, parafusos, chave philips, lixa, régua e lápis.</string>
+    <string name="text_1prateleira_de_madeira">Com as ripas previamente lixadas, pegue 2 ripas de
+\ 28x6cm e cole em cima 4 ripas de 4x70cm, deixando um espaço igual entre elas.Faça mais duas iguais.</string>
+    <string name="text_2prateleira_de_madeira">Vire os estrados e fure onde a madeira foi colada.</string>
+    <string name="text_3prateleira_de_madeira">Coloque um parafuso em cada furo.</string>
+    <string name="text_4prateleira_de_madeira">Pegue um estrado e uma ripa de 93x4cm, meça a altura
+\ que você quer para o pé da prateleira e cole com a cola de madeira.</string>
+    <string name="text_5prateleira_de_madeira">Faça um furo com a furadeira para unir o estrado em
+\ direção a ripa de 4x70cm e outro para unir o lado da ripa
+\  de 28x4cm, na ripa de 28x4cm você tem que tomar
+\ cuidado para não pegar o parafuso do estrado, coloque os parafusos.</string>
+    <string name="text_6prateleira_de_madeira">Agora do outro lado do estrado, pegue uma ripa de
+\ 93x4cm, faça a medida do pé, cole, faça os furos com a furadeira e coloque os parafusos.</string>
+    <string name="text_7prateleira_de_madeira">Agora vamos colocar o estrado que será a primeira
+\  prateleira, meça a altura que você quer deixar na parte de cima.</string>
+    <string name="text_8prateleira_de_madeira">Cole o estrado na ripa, faça os furos com a furadeira
+\  e coloque os parafusos.Faça do outro lado do estrado.</string>
+    <string name="text_9prateleira_de_madeira">Agora você terá que medir a altura da prateleira do
+\ meio.</string>
+    <string name="text_10prateleira_de_madeira">Cole o estrado dos dois lados, faça os furos com a
+\ furadeira e coloque os parafusos.</string>
+    <string name="text_11prateleira_de_madeira">Pegue as ripas restantes de 93x4cm cole, fure e
+\ coloque os parafusos do dois lados.</string>
+    <string name="text_12prateleira_de_madeira">Prateleira pronta para utilizar, se você quiser
+\ também pode pintar.</string>
+
+    <string name="text_prateleira_porta_roupeiro">Prateleira com Portas de Roupeiro</string>
+    <string name="text_prateleira_porta_roupeiro1">Vamos reaproveitar as portas de um roupeiro e
+\ fazer uma prateleira para a sala ou quarto.</string>
+    <string name="materiais_prateleira_porta_roupeiro">Duas tábuas de 67cm, 2 tábuas de 31,2cm, 3 tábuas de
+\ 65cm, esquadro, parafusos, furadeira, chave philips, 8
+\ cantoneiras pequenas, régua, lápis, massa para
+\ madeira, espátula, lixa, tinta, rolo de pintura, trena e 4 pés para o móvel.</string>
+    <string name="text_1passo_prateleira_porta_roupeiro">Lixe as partes que foram cortadas.</string>
+    <string name="text_2passo_prateleira_porta_roupeiro">Pegue uma tábua de 67cm e posicione em cima da tábua
+\ de 65cm, use o esquadro para ver se as tábuas estão com 90°.</string>
+    <string name="text_3passo_prateleira_porta_roupeiro">Faça 2 furos com a furadeira e coloque os parafusos.</string>
+    <string name="text_4passo_prateleira_porta_roupeiro">Pegue a outra tábua de 65cm meça com o esquadro fure
+\ e parafuse do outro lado.</string>
+    <string name="text_5passo_prateleira_porta_roupeiro">Pegue a outra tábua de 65cm, meça com o esquadro,
+\ fure e coloque os parafusos do dois lados.</string>
+    <string name="text_6passo_prateleira_porta_roupeiro">Deve ficar assim.</string>
+    <string name="text_7passo_prateleira_porta_roupeiro">Meça a metade da tábua de 67cm e marque com o lápis.</string>
+    <string name="text_8passo_prateleira_porta_roupeiro">Pegue a outra tábua de 65cm posicione no meio da
+\ marcação, fure e coloque os parafusos do dois lados.</string>
+    <string name="text_9passo_prateleira_porta_roupeiro">Pegue as tábuas de 31,2cm e meça 4cm em cada ponta marcando com o lápis.</string>
+    <string name="text_10passo_prateleira_porta_roupeiro">Posicione as cantoneiras na medida e faça uma
+\ marcação dentro do furo.Faça nas duas tábuas.Fure com a furadeira e coloque as cantoneiras com os parafusos.</string>
+    <string name="text_11passo_prateleira_porta_roupeiro">Marque o meio das tábuas laterais, coloque as tábuas de
+\ 31,2cm no meio da marcação com as cantoneiras viradas para a parte de baixo fure e coloque os parafusos.</string>
+    <string name="text_12passo_prateleira_porta_roupeiro">Passe a massa para madeira em todos os buracos ou imperfeições.</string>
+    <string name="text_13passo_prateleira_porta_roupeiro">Depois de seca lixe as partes que foi aplicado a massa.</string>
+    <string name="text_14passo_prateleira_porta_roupeiro">Pinte o móvel.</string>
+    <string name="text_15passo_prateleira_porta_roupeiro">Vire o móvel e coloque os pés.</string>
+    <string name="text_16passo_prateleira_porta_roupeiro">Prateleira pronta, agora é só escolher o lugar para colocar.</string>
+
+    <string name="text_revestimento_isopor">Revestimento de Isopor</string>
+    <string name="text_revestimento_isopor2">Vamos revestir uma parede com tijolos de isopor, para
+\ quem quer praticidade.</string>
+    <string name="materiais_parede_isopor">Placas de isopor, estilete, régua, lápis, pincel, cola de
+\ isopor, tinta PVA branco.</string>
+    <string name="text_1passo_parede_isopor">Com o lápis e régua você vai fazer retângulos de
+\ 20x8cm em todas as placas.</string>
+    <string name="text_2passo_parede_isopor">Com o auxílio da régua corte os tijolos com o estilete.</string>
+    <string name="text_3passo_parede_isopor">Passe a cola de isopor com o pincel no tijolo e em
+\ seguida cole na parede.</string>
+    <string name="text_4passo_parede_isopor">Cole dessa forma na parede.</string>
+    <string name="text_5passo_parede_isopor">Depois de colados os tijolos você deve passar 2 demãos
+\ de tinta PVA na parede.</string>
+    <string name="text_6passo_parede_isopor">Parede pronta, além de ficar um ambiente mais bonito e
+aconchegante, você gasta muito pouco e não suja a casa.</string>
+
+    <string name="text_vaso_isopor">Vaso com Revestimento de Isopor</string>
+    <string name="text_vaso_isopor2">Vamos fazer um vaso usando isopor para fazer a textura de pedra.</string>
+    <string name="materiais_vaso_isopor">Isopor, um balde, lixa grão 200, estilete, cola quente,
+\ uma vela, pincel, esponja, tinta acrílica a base de água das cores desejadas, verniz acrílico a
+\ base de água.</string>
+    <string name="text_1passo_vaso_isopor">Corte pedaços irregulares de isopor.</string>
+    <string name="text_2passo_vaso_isopor">Lixe o balde por fora.</string>
+    <string name="text_3passo_vaso_isopor">Cole os pedaços do isopor com cola quente.</string>
+    <string name="text_4passo_vaso_isopor">Depois de colar todos os pedaços de isopor passe a vela
+\  acesa no isopor para ficar mais parecido com pedras.</string>
+    <string name="text_5passo_vaso_isopor">Pinte o vaso por fora.</string>
+    <string name="text_6passo_vaso_isopor">Com uma tinta verde e outra amarela dê patidinhas com
+\ a esponja para dar um feito de pedra.</string>
+    <string name="text_7passo_vaso_isopor">Com uma tinta branca dê batidinhas com a esponja para
+\ iluminar a peça.</string>
+    <string name="text_8passo_vaso_isopor">Faça furos no fundo do vaso para drenagem da água.</string>
+    <string name="text_9passo_vaso_isopor">Passe o verniz na peça.</string>
+    <string name="text_10passo_vaso_isopor">Vaso pronto, agora é só plantar uma folhagem e escolher
+\ onde colocar.</string>
+
+    <string name="text_azulejo_isopor">Azulejo com Isopor</string>
+    <string name="text_azulejo_isopor2">Sim, vamos fazer pequenos azulejos com isopor, e o
+\  melhor você pode escolher o desenho que quiser.</string>
+    <string name="materiais_azulejo_isopor">Bandejas de isopor, estilete, desenhos impressos na
+\ folha A4,  cola de isopor, verniz cristal e pincel.</string>
+    <string name="text_1passo_azulejo_isopor">Corte o fundo da bandeja de isopor com o estilete.</string>
+    <string name="text_2passo_azulejo_isopor">Cole os desenhos no isopor.</string>
+    <string name="text_3passo_azulejo_isopor">Depois de secos os desenhos, passe uma demão de cola
+\  por cima.</string>
+    <string name="text_4passo_azulejo_isopor">Depois de seco corte os quadradinhos.</string>
+    <string name="text_5passo_azulejo_isopor">Passe o verniz.</string>
+    <string name="text_6passo_azulejo_isopor">Azulejos prontos para serem aplicados onde você quiser.</string>
+
+    <string name="text_cabeceira_cama">Cabeceira de Cama</string>
+    <string name="text_cabeceira_cama2">Ainda não tem cabeceira de cama? Então vamos fazer
+\  uma com poucos materiais.</string>
+    <string name="materiais_cabeceira_de_cama">Tecido da sua preferencia, cola spray Kisafix, fita
+\ dupla face, cola branca, lápis, régua nível, estilete, 32 bandejas de isopor e 1 placa
+\ de isopor.</string>
+    <string name="text_1passo_cabeceira_de_cama">Vamos cortar o tecido um pouco maior do que a bandeja.</string>
+    <string name="text_2passo_cabeceira_de_cama">Passe a cola nas pontas do tecido.</string>
+    <string name="text_3passo_cabeceira_de_cama">Cole o tecido na bandeja.</string>
+    <string name="text_4passo_cabeceira_de_cama">Corte um pedaço razoável da placa de isopor cole
+\ no meio da bandeja e coloque fita dupla face.</string>
+    <string name="text_5passo_cabeceira_de_cama">Faça as medidas de altura e largura na sua parede.</string>
+    <string name="text_6passo_cabeceira_de_cama">Na parede faça as medidas das junções das bandejas
+\ com o lápis, como as quinas das bandejas são arredondadas para não aparecer a parede você vai
+\ colar com a cola branca um quadrado de tecido antes de colar as placas.</string>
+    <string name="text_7passo_cabeceira_de_cama">Os quadrados de tecido ficam assim.</string>
+    <string name="text_8passo_cabeceira_de_cama">Cole as placas na parede.</string>
+    <string name="text_9passo_cabeceira_de_cama">Prontinho, agora você tem uma cabeceira de cama.</string>
+
+    <string name="text_charrete_decorativa">Charrete Decorativa</string>
+    <string name="text_charrete_decorativa2">Vamos fazer um vasinho estilo charrete para decoração.</string>
+    <string name="materiais_charrete_decorativa">Estilete, régua, 1 bandeja de isopor, uma caixinha
+\  pequena, cola quente, tesoura, tinta acrílica preta,
+\  marrom e dourada, lápis, papelão, cordão de sisal
+\  fino, palitos de dente e de churrasquinho, pincel, pedrinhas brancas e suculentas artificiais.</string>
+    <string name="text_1passo_charrete_decorativa">Corte um dos lados da caixinha.</string>
+    <string name="text_2passo_charrete_decorativa">Pinte de preto toda a caixinha.</string>
+    <string name="text_3passo_charrete_decorativa">Usando o fundo da bandeja, corte tiras.
+\  O comprimento das tiras vai depender das medidas da caixinha que você tem.</string>
+    <string name="text_4passo_charrete_decorativa">Cole com cola quente as tiras de isopor na caixinha.</string>
+    <string name="text_5passo_charrete_decorativa">Pinte as tiras de isopor de marrom.</string>
+    <string name="text_6passo_charrete_decorativa">No pedaço de papelão faça um círculo e dentro desse
+\  círculo faça outro menor. Corte o círculo menor.</string>
+    <string name="text_7passo_charrete_decorativa">Enrole o cordão de sisal na argola de papelão.</string>
+    <string name="text_8passo_charrete_decorativa">Pegue um palito de dente, meça o comprimento dentro
+\ da argola, corte, enrrole o sisal e cole no meio
+\ da argola. Meça mais 4 pedaços, enrrole e cole o
+\ sisal, cole no palito do meio e na argola. Faça 4 rodinhas iguais.</string>
+    <string name="text_9passo_charrete_decorativa">Pegue um palito de churrasco e meça o comprimento
+\  para fazer o eixo das rodas. Enrrole e cole o sisal no palito.</string>
+    <string name="text_10passo_charrete_decorativa">Passe levemente a tinta dourada nas tiras.</string>
+    <string name="text_11passo_charrete_decorativa">Com uma palito de dente faça bolinhas nas pontas
+\  das tiras com tinta a preta para imitar pregos.</string>
+    <string name="text_12passo_charrete_decorativa">Cole as rodinhas na caixa.</string>
+    <string name="text_13passo_charrete_decorativa">Coloque as pedrinhas brancas dentro da charrete.</string>
+    <string name="text_14passo_charrete_decorativa">Coloque as suculentas.</string>
+    <string name="text_15passo_charrete_decorativa">Decoração pronta.</string>
+
+    <string name="text_vasinho_de_parede">Vasinho de Parede</string>
+    <string name="vasinho_de_parede3">Agora vamos fazer um vasinho de parede super fácil.</string>
+    <string name="materiais_vasinho_de_parede">Uma bandeja de isopor, fita dupla face, estilete, régua,
+\  tesoura, caneta, tinta da cor de sua preferência, pincel,
+\  cola de isopor, cordão de sisal fino, embalagem de creme e plantas artificiais.</string>
+    <string name="text_1passo_vasinho_de_parede">Corte o fundo da bandeja e desenhe 8 tiras no isopor.</string>
+    <string name="text_2passo_vasinho_de_parede">Corte as tiras com o estilete e as pontas corte com
+\  a tesoura.</string>
+    <string name="text_3passo_vasinho_de_parede">Pinte as tiras.</string>
+    <string name="text_4passo_vasinho_de_parede">Cole as tiras formando um quadrado.</string>
+    <string name="text_5passo_vasinho_de_parede">Corte o frasco de creme e cole o sisal em volta. Se
+\ você quiser pode colocar o enfeite que desejar.</string>
+    <string name="text_6passo_vasinho_de_parede">Cole o vasinho na cerquinha de isopor.</string>
+    <string name="text_7passo_vasinho_de_parede">Cole a fita dupla face na parte de trás.</string>
+    <string name="text_8passo_vasinho_de_parede">Coloque a planta artificial e escolha uma parede
+\ para colar seu vasinho.</string>
+
+    <string name="text_caixa_organizadora">Caixa Organizadora</string>
+    <string name="text_caixa_organizadora2">Vamos fazer uma caixa organizadora? Uma boa idéia
+\ para deixar o ambiente descontraído e organizado.</string>
+    <string name="materiais_caixa_organizadora">Uma caixa de papelão, cola quente, cola branca, tecidos
+\ de sua preferência, tesoura, fita métrica, lápis, tinta para tecido branca, stencil, pincel e fita crepe.</string>
+    <string name="text_1passo_caixa_organizadora">Passe cola quente nas abas da caixa e coloque elas para dentro.</string>
+    <string name="text_2passo_caixa_organizadora">Pegue o tecido faça as medidas do fundo da caixa e
+\  cole com cola branca no fundo.</string>
+    <string name="text_3passo_caixa_organizadora">Tire a medida da caixa para cortar o tecido de fora.</string>
+    <string name="text_4passo_caixa_organizadora">Passe cola branca para colar o tecido na caixa e na parte
+\  do tecido cole com cola quente.</string>
+    <string name="text_5passo_caixa_organizadora">Meça da borda de fora da caixa para dentro, para cortar
+\ o tecido que será o forro da caixa.</string>
+    <string name="text_6passo_caixa_organizadora">Cole o tecido pelo avesso na parte de fora da caixa com
+\ cola quente.</string>
+    <string name="text_7passo_caixa_organizadora">Depois de colado o tecido, vire e coloque para dentro
+\ da caixa, passe cola quente para colar o tecido no final das laterais da caixa.</string>
+    <string name="text_8passo_caixa_organizadora">Corte um pedaço de papelão menor do que o fundo da
+\  caixa, cole o tecido do forro e coloque dentro da caixa.</string>
+    <string name="text_9passo_caixa_organizadora">Na borda da caixa cole com a fita crepe o stencil, e com
+\ com batidinhas pinte as palavras com a tinta branca para tecido.</string>
+    <string name="text_10passo_caixa_organizadora">Corte dois pedaços de tecido para fazer uma alça de
+\ enfeite e cole na caixa.</string>
+    <string name="text_11passo_caixa_organizadora">Caixa organizadora pronta.</string>
+
+    <string name="text_caixa_organizadora_para_banheiro">Caixa Organizadora para o Banheiro</string>
+    <string name="text_caixa_organizadora_para_banheiro2">Vamos fazer uma caixa para organizar o banheiro e
+\ ainda serve como decoração.</string>
+    <string name="materiais_caixa_organizadora_para_banheiro">Uma caixa, fita métrica, tecido, tesoura, cola branca,
+\  corda de sisal grossa, cola quente, 2 argolas de madeira, 1 placa de EVA e 4 cravo bailarina dourado.</string>
+    <string name="text_1passo_caixa_organizadora_para_banheiro">Cole o tecido na caixa com a cola branca.</string>
+    <string name="text_2passo_caixa_organizadora_para_banheiro">Corte um pedaço de papelão menor do que o fundo da
+\  caixa, cole o tecido e coloque dentro da caixa.</string>
+    <string name="text_3passo_caixa_organizadora_para_banheiro">Cole a corda de sisal em volta da caixa onde não tem
+\ tecido até não aparecer mais o papelão.</string>
+    <string name="text_4passo_caixa_organizadora_para_banheiro">Faça uma tira pequena com o tecido, cole uma das
+\ pontas no lado menor da caixa, coloque a argola de
+\ madeira, cole a outra ponta da tira na caixa e cole
+\ uma cabeça do cravo de bailarina em cada ponta com a cola quente. Faça no outro lado da caixa também.</string>
+    <string name="text_5passo_caixa_organizadora_para_banheiro">Corte o EVA do tamanho do fundo da caixa e cole com
+\ cola quente.</string>
+    <string name="text_6passo_caixa_organizadora_para_banheiro">Caixa organizadora pronta.</string>
+
+    <string name="text_cachepot_papelao">Cachepot de Papelão</string>
+    <string name="text_cachepot_papelao2">Vamos fazer um lindo cachepot de papelão.</string>
+    <string name="materiais_cachepot_papelao">Tesoura, cola quente, uma caixa de papelão, placas de
+\  papelão, tecido, régua, estilete, fita crepe, pincel e verniz.</string>
+    <string name="text_1passo_cachepot_papelao">Pegue as placas de papelão e retire a película para
+\  ficar a parte ondulada parecendo.</string>
+    <string name="text_2passo_cachepot_papelao">Agora as placas serão cortadas em tiras, cada tira terá
+\ 3 ondulações.</string>
+    <string name="text_3passo_cachepot_papelao">Cole por toda a volta da caixa as tiras com a cola quente
+\  somente nas pontas da parte do fundo da caixa.</string>
+    <string name="text_4passo_cachepot_papelao">Agora entrelace as tiras colando com cola quente.</string>
+    <string name="text_5passo_cachepot_papelao">Depois de entrelaçar toda a caixa coloque pedaços de
+\ fita crepe para segurar bem as pontas coladas com a cola quente, depois retire as fitas.</string>
+    <string name="text_6passo_cachepot_papelao">Cole o tecido na borda da caixa e coloque o restante
+\ para dentro da caixa. Esse será o forro.</string>
+    <string name="text_7passo_cachepot_papelao">Corte um pedaço de papelão um pouco menor do que o
+\ fundo da caixa e encape com o tecido. Coloque no fundo da caixa.</string>
+    <string name="text_8passo_cachepot_papelao">Passe o verniz no papelão.</string>
+    <string name="text_9passo_cachepot_papelao">Cachepot pronto, além de organizar sua casa você terá
+\  uma bela decoração gastando pouco.</string>
+
+    <string name="text_decoracao_papelao">Decoração com Papelão</string>
+    <string name="text_decoracao_papelao2">Vamos fazer uma linda decoração para a sala ou até
+\ mesmo para um corredor.</string>
+    <string name="materiais_decoracao_papelao">Régua, caneta, estilete, fita crepe larga, tesoura, pincel,
+\ tinta preto fosco e cola quente.</string>
+    <string name="text_1passo_decoracao_papelao">Corte um pedaço de papelão com 27x27cm e marque a
+\ largura de 3,5cm</string>
+    <string name="text_2passo_decoracao_papelao">Dentro do quadrado de papelão faça outro quadrado de
+\ 3,5 de largura. Faça mais 3 unidades de 27x27cm e mais 2 de 20x20cm.</string>
+    <string name="text_3passo_decoracao_papelao">Corte com o estilete e régua os quadrados.</string>
+    <string name="text_4passo_decoracao_papelao">Encape com a fita crepe todos os quadrados.</string>
+    <string name="text_5passo_decoracao_papelao">Pinte todos os quadrados.</string>
+    <string name="text_6passo_decoracao_papelao">Cole o quadrado de 20x20cm em cima de uma das pontas
+\ do quadrado de 27x27cm. Faça mais uma peça igual.</string>
+    <string name="text_7passo_decoracao_papelao">Pegue uma peça de 27x27cm cole por baixo da peça de
+\  20x20cm. Faça o mesmo passo com a outra peça.</string>
+    <string name="text_8passo_decoracao_papelao">Posicione as pontas duas peças anteriores nas partes
+\  que tem o quadrado de 20x20cm colada na de 27x27cm, cole um quadrado de 20x20cm em cima.</string>
+    <string name="text_9passo_decoracao_papelao">Decoração pronta.</string>
+
+    <string name="text_porta_caneta_recados">Porta Canetas e Recados</string>
+    <string name="text_porta_caneta_recados2">Vamos fazer um porta canetas e um porta recados na
+\ mesma peça.</string>
+    <string name="materiais_porta_caneta_recados">Um rolo de papelão, uma folha de cortiça, cola quente,
+ tesoura, estilete, tinta marrom, pincel, fita de couro marrom, pedaço de papelão e cravo bailarina prata.</string>
+    <string name="text_1passo_porta_caneta_recados">Corte um pedaço do rolo de papelão.</string>
+    <string name="text_2passo_porta_caneta_recados">Encape com a cortiça o rolo de papelão e cole um
+\  pedaço em uma das pontas para fechar e ficar um pote.</string>
+    <string name="text_3passo_porta_caneta_recados">Pinte a borda com a tinta marrom.</string>
+    <string name="text_4passo_porta_caneta_recados">Cole a fita de couro na borda do pote.</string>
+    <string name="text_5passo_porta_caneta_recados">Corte o tamanho de papelão que você quer, cole a
+\  cortiça em um dos lados.</string>
+    <string name="text_6passo_porta_caneta_recados">Cole o pote na tela de cortiça.</string>
+    <string name="text_7passo_porta_caneta_recados">Cole a tira de couro em volta da tela, na parte
+\  de baixo você irá colar a tira inteira pegando o pote, isso vai ajudar a segurar melhor.</string>
+    <string name="text_8passo_porta_caneta_recados">Cole somente as cabeças do cravo de bailarina nas
+\  tiras.</string>
+    <string name="text_9passo_porta_caneta_recados">Porta canetas e recados pronto, se quiser pode
+\ colocar na parede ou colar imãs fortes e colocar na geladeira.</string>
+
+    <string name="text_nicho_de_papelao">Nicho de Papelão</string>
+    <string name="text_nicho_de_papelao2">Vamos fazer um nicho de papelão fácil de fazer e com
+\ poucos materiais.</string>
+    <string name="materiais_nicho_de_papelao">Uma barrica de papelão, rolinho de pintura, lixa,
+\  uma tábua de madeira, stain para madeira,parafusos, furadeira, chave philips ou parafusadeira e  tinta.</string>
+    <string name="text_1passo_nicho_de_papelao">Corte um pedaço da barrica da largura que você quiser e
+\  pinte com a tinta da cor de sua preferência.</string>
+    <string name="text_2passo_nicho_de_papelao">Corte a tábua da medida que se encaixe no meio de sua
+\  barrica, lixe e passe o stain da cor de sua preferência.</string>
+    <string name="text_3passo_nicho_de_papelao">Faça furos na barrica com a tábua encaixada no meio
+\  e coloque os parafusos.</string>
+    <string name="text_4passo_nicho_de_papelao">Pinte os parafusos para não aparecer.</string>
+    <string name="text_5passo_nicho_de_papelao">Nicho pronto, agora é só colocar na parede.</string>
+
+
+
+
+
+
+
+
+
+
+</resources>

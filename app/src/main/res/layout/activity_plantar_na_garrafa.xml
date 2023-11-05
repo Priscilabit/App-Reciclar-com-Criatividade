@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context=".PlantarNaGarrafa">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/text_plantar_na_garrafa_de_5L"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="@string/text_plantar_na_garrafa_de_5L"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <ImageView
+
+                android:id="@+id/plantar"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/plantar_com_garrafa"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/materiais"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:paddingLeft="10dp"
+                android:text="@string/materiais"
+                android:textColor="@color/purple"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_materiais_plantar_na_garrafa_de_5L"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:layout_marginTop="30dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="@string/materiais_plantar_na_garrafa_de_5L"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/passo_a_passo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="15dp"
+                android:layout_marginTop="30dp"
+                android:text="@string/passo_a_passo"
+                android:textColor="@color/purple"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_1passo_plantar_na_garrafa_de_5L"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="30dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="@string/text_1passo_plantar_na_garrafa_de_5L"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+
+                android:id="@+id/rotulo"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/rotulo"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_2passo_plantar_na_garrafa_de_5L"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:paddingLeft="15dp"
+                android:text="@string/text_2passo_plantar_na_garrafa_de_5L"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+
+                android:id="@+id/alca"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/alca"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_3passo_plantar_na_garrafa_de_5L"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:paddingLeft="15dp"
+                android:text="@string/text_3passo_plantar_na_garrafa_de_5L"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+
+                android:id="@+id/riscar"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/riscar1"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_4passo_plantar_na_garrafa_de_5L"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/text_4passo_plantar_na_garrafa_de_5L"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+
+                android:id="@+id/corte"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/corte"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_5passo_plantar_na_garrafa_de_5L"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:paddingLeft="50dp"
+                android:paddingRight="50dp"
+                android:text="@string/text_5passo_plantar_na_garrafa_de_5L"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+
+                android:id="@+id/recortar"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/recortar"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_6passo_plantar_na_garrafa_de_5L"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:paddingLeft="50dp"
+                android:paddingRight="50dp"
+                android:text="@string/text_6passo_plantar_na_garrafa_de_5L"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/terra"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/terra"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_7passo_plantar_na_garrafa_de_5L"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:paddingLeft="50dp"
+                android:paddingRight="50dp"
+                android:text="@string/text_7passo_plantar_na_garrafa_de_5L"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/plante"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/plante"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_8passo_plantar_na_garrafa_de_5L"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:paddingLeft="50dp"
+                android:paddingRight="50dp"
+                android:text="@string/text_8passo_plantar_na_garrafa_de_5L"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/regar"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/regar"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_9passo_plantar_na_garrafa_de_5L"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:paddingLeft="05dp"
+                android:paddingRight="05dp"
+                android:text="@string/text_9passo_plantar_na_garrafa_de_5L"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/agua"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/agua"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_10passo_plantar_na_garrafa_de_5L"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="@string/text_10passo_plantar_na_garrafa_de_5L"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/orta"
+                android:layout_width="match_parent"
+                android:layout_height="203dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/orta"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/logo2"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/logo"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

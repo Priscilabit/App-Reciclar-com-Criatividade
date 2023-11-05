@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context=".Caixa_Organizadora">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/text_caixa_organizadora2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="@string/text_caixa_organizadora2"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/imagem_caixa_organizadora"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="15dp"
+                android:src="@drawable/caixa_organizadora"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_materiais"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:paddingLeft="10dp"
+                android:text="@string/materiais"
+                android:textColor="@color/purple"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_materiais_caixa_organizadora"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="30dp"
+                android:gravity="center"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="@string/materiais_caixa_organizadora"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/passo_a_passo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="15dp"
+                android:layout_marginTop="30dp"
+                android:text="@string/passo_a_passo"
+                android:textColor="@color/purple"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_1passo_caixa_organizadora"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginTop="30dp"
+                android:gravity="center"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="@string/text_1passo_caixa_organizadora"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/passe_cola_abas"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/passe_cola_abas"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/colando_dentro_abas"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/colando_dentro_abas"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_2passo_caixa_organizadora"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="@string/text_2passo_caixa_organizadora"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/medindo_tecido"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/medindo_tecido"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_3passo_caixa_organizadora"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="@string/text_3passo_caixa_organizadora"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/meca_caixa"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/meca_caixa"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_4passo_caixa_organizadora"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="@string/text_4passo_caixa_organizadora"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/colando_tecido_cola_quente"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/colando_tecido_cola_quente"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_5passo_caixa_organizadora"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="05dp"
+                android:paddingRight="05dp"
+                android:text="@string/text_5passo_caixa_organizadora"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/medindo_borda_caixa"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/medindo_borda_caixa"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/medindo_borda_para_dentro"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/medindo_borda_para_dentro"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_6passo_caixa_organizadora"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="@string/text_6passo_caixa_organizadora"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/cole_tecido_avesso"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/cole_tecido_avesso"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_7passo_caixa_organizadora"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="@string/text_7passo_caixa_organizadora"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/vire_tecido_cole"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/vire_tecido_cole"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/forro_tecido_caixa"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/forro_tecido_caixa"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_8passo_caixa_organizadora"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="@string/text_8passo_caixa_organizadora"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/papelao_forro_tecido"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/papelao_forro_tecido"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_9passo_caixa_organizadora"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="@string/text_9passo_caixa_organizadora"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/borda_stencil"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/borda_stencil"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/stencil_bon_appetit"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/stencil_bon_appetit"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_10passo_caixa_organizadora"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="@string/text_10passo_caixa_organizadora"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/alca_enfeite_caixa"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/alca_enfeite_caixa"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/colando_alca_enfeite"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/colando_alca_enfeite"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_11passo_caixa_organizadora"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="@string/text_11passo_caixa_organizadora"
+                android:textColor="@color/purple"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.432"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/caixa_organizadora"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/caixa_organizadora"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <ImageView
+                android:id="@+id/logo2"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:layout_marginTop="05dp"
+                android:src="@drawable/logo"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+

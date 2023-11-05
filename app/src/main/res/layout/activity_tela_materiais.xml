@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".TelaMateriais">
+
+    <TextView
+        android:id="@+id/text_tela_materiais"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/text_tela_materiais"
+        android:textColor="@color/purple"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.432"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bt_plastico"
+        android:layout_width="277dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="96dp"
+        android:background="@drawable/button_tela_materiais"
+        android:text="@string/bt_plastico"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="28dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/text_tela_materiais" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bt_vidro"
+        android:layout_width="277dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/button_tela_materiais"
+        android:text="@string/bt_vidro"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="28dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/bt_plastico" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bt_madeira"
+        android:layout_width="277dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/button_tela_materiais"
+        android:text="@string/bt_madeira"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="28dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/bt_vidro" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bt_isopor"
+        android:layout_width="277dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/button_tela_materiais"
+        android:text="@string/bt_isopor"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="28dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/bt_madeira" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bt_papelao"
+        android:layout_width="277dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/button_tela_materiais"
+        android:text="@string/bt_papelao"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="28dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/bt_isopor"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>

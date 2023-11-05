@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ReciclarComCriatividade1"
+        tools:targetApi="31">
+        <activity
+            android:name=".Tela_Nicho_de_Papelao"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Porta_Canetas_Recados"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Decoracao_Papelao"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Cachepot_Papelao"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Caixa_Organizadora_Banheiro"
+            android:exported="false" />
+        <activity
+            android:name=".Caixa_Organizadora"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Vasinho_de_Parede"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Charrete_Decorativa"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Cabeceira_de_Cama"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Azulejo_com_Isopor"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Vaso_Isopor"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Revestimento_Isopor"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Papelao"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Isopor"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Prateleira_Porta_Roupeiro"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Prateleira_de_Madeira"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Luminaria_de_Mesa"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Criado_Mudo"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Casinha_Butijao"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Quadro_Parteleira"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Madeira"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Decoracao_Garrafa_Vidro"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Luminaria_Rustica"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Vasinhos_Decorativos"
+            android:exported="false" />
+        <activity
+            android:name=".Pote_Vidro_Garrafa"
+            android:exported="false" />
+        <activity
+            android:name=".Decoracao_para_Cozinha"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Luminaria"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Vidro"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Pote_Garrafa"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Vaso"
+            android:exported="false" />
+        <activity
+            android:name=".Telha_Garrafa"
+            android:exported="false" />
+        <activity
+            android:name=".Organizador"
+            android:exported="false" />
+        <activity
+            android:name=".Mesa_de_Cano"
+            android:exported="false" />
+        <activity
+            android:name=".PlantarNaGarrafa"
+            android:exported="false" />
+        <activity
+            android:name=".Tela_Plastico"
+            android:exported="false" />
+        <activity
+            android:name=".TelaMateriais"
+            android:exported="false" />
+        <activity
+            android:name=".TelaPrincipal"
+            android:exported="false" />
+        <activity
+            android:name=".FormCadastro"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FormLogin"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
